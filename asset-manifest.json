@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mind-yul/static/css/main.f855e6bc.css",
-    "main.js": "/mind-yul/static/js/main.2a0bf12b.js",
+    "main.js": "/mind-yul/static/js/main.d3481433.js",
     "index.html": "/mind-yul/index.html",
     "main.f855e6bc.css.map": "/mind-yul/static/css/main.f855e6bc.css.map",
-    "main.2a0bf12b.js.map": "/mind-yul/static/js/main.2a0bf12b.js.map"
+    "main.d3481433.js.map": "/mind-yul/static/js/main.d3481433.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.2a0bf12b.js"
+    "static/js/main.d3481433.js"
   ]
 }
